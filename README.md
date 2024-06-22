@@ -19,6 +19,5 @@ A new Flutter project.
 # Ajout de tache
 ![image](https://github.com/lunodims/TasksManager/assets/129475972/5465a25f-fd14-4480-9e69-866a2e0ea3ef)
 
-# Statut de la tache 
-![image](https://github.com/lunodims/TasksManager/assets/129475972/6595d284-1482-4fa2-800b-a20cdc7e8e96)
+
 
